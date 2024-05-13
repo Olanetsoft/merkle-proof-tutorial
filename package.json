@@ -1,0 +1,24 @@
+{
+  "name": "merkle-proof-tutorial",
+  "version": "1.0.0",
+  "description": "How merkle proof works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olanetsoft/merkle-proof-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olanetsoft/merkle-proof-tutorial/issues"
+  },
+  "homepage": "https://github.com/Olanetsoft/merkle-proof-tutorial#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "merkletreejs": "^0.3.11"
+  }
+}
